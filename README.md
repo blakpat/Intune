@@ -2,6 +2,7 @@
 Intune Proyects
 📄 Instalación de Impresoras en Intune con Win32App en entornos entra ID
 
+
 Este procedimiento detalla la instalación de impresoras de red utilizando Microsoft Intune Win32App y PowerShell.
 
 🔗 Referencia Instalar impresoras en Intune con Win32Apps y PowerShell
