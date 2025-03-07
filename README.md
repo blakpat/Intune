@@ -8,16 +8,21 @@ Este procedimiento detalla la instalación de impresoras de red utilizando Micro
 🔗 Referencia Instalar impresoras en Intune con Win32Apps y PowerShell
 
 📌 Componentes Principales
+
 📂 Drivers de la Impresora para Canon Universal Print Driver PLC6
+
 •	cnp60m.cat → Archivos necesario
 •	CNP60MA64.INF → Archivo de que contiene la información del Driver
 •	GPPCL6.cab → Archivos necesario
+
 📂 Scripts
+
 •	Install-Printer.ps1 → Instala la impresora y el driver.
 •	Remove-Printer.ps1 → Elimina la impresora.
 •	Request-InstallPrinter.ps1 → Script principal creado por mi para el despliegue
 
  📖 Funcionalidades del Script Request-InstallPrinter.ps1:
+ 
 🔹 Parámetros de configuración del Azure Blob Storage
 🔹 Definir carpeta en C:\
 🔹 Descargar los archivos desde el Blob
