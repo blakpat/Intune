@@ -1,7 +1,1 @@
-Para montar la unidad en intune: 
-----> powershell.exe -ExecutionPolicy Bypass -File script.ps1 -Action "Mount"
-
-Para desmontarla: 
-----> powershell.exe -ExecutionPolicy Bypass -File script.ps1 -Action "Unmount"
-
-
+📄 WIKI➡️ https://github.com/blakpat/Intune/wiki/%F0%9F%93%84-Intune-%E2%80%90-Mapear-unidades-de-red-Azure-Blob-Storage
