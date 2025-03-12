@@ -9,7 +9,7 @@ $Password = "tu_passowrd"
 $LogFile = "C:\2azure\LogFile.log"
 
 function Mount-Drive {
-    $connectTestResult = Test-NetConnection -ComputerName "vinclefiles.file.core.windows.net" -Port 445
+    $connectTestResult = Test-NetConnection -ComputerName "tu_url" -Port 445
     if ($connectTestResult.TcpTestSucceeded) {
         # Montar la unidad usando net use (más persistente)
         cmd.exe /C "net use ${DriveLetter}: ${NetworkPath} ${Password} /USER:${UserName} /PERSISTENT:YES"
