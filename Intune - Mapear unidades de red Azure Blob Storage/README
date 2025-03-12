@@ -1,0 +1,7 @@
+Para montar la unidad en intune: 
+----> powershell.exe -ExecutionPolicy Bypass -File script.ps1 -Action "Mount"
+
+Para desmontarla: 
+----> powershell.exe -ExecutionPolicy Bypass -File script.ps1 -Action "Unmount"
+
+
