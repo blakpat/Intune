@@ -1,2 +1,4 @@
 Esta guia permite crear desde cero la integración de validación de SSO en MAC.
 En los dispositivos macOS, puede configurar Platform SSO para habilitar el inicio de sesión único (SSO) mediante la autenticación sin contraseña.
+
+WIKI ---> https://github.com/blakpat/Intune/wiki/%F0%9F%94%91MACOS-%E2%80%90-Configurar-la-sincronizaci%C3%B3n-de-contrase%C3%B1as-SSO-de-la-plataforma-Entra-ID-con-Intune
