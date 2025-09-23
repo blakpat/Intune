@@ -16,7 +16,6 @@ Bienvenido a mi wiki de **Intune**, donde recopilo guías paso a paso para imple
 | [🔐 Bloquear USB de almacenamiento con Microsoft Intune](https://github.com/blakpat/Intune/wiki/%F0%9F%94%90Bloquear-USB-de-Almacenamiento-con-Microsoft-Intune) | Restringir el uso de dispositivos de almacenamiento externo. |
 | [🔑 macOS - Configurar SSO de Entra ID con Intune](https://github.com/blakpat/Intune/wiki/%F0%9F%94%91MACOS-%E2%80%90-Configurar-la-sincronizaci%C3%B3n-de-contrase%C3%B1as-SSO-de-la-plataforma-Entra-ID-con-Intune) | Configuración de inicio de sesión único (SSO) de Entra ID en macOS. |
 | [🔑 Despliegue K9S Kubernetes AKS](https://github.com/blakpat/Intune/wiki/Intune-%E2%80%90-Despliegue-K9S-Kubernetes-AKS) | Despliegue K9S Kubernetes AKS mediante intune. |
-
 | [🔑 Bloquear USB de Almacenamiento con Microsoft Intune](https://github.com/blakpat/Intune/wiki/%E2%9D%97C%C3%B3mo-bloquear-actualizaciones-del-sistema-operativo-en-dispositivos-iOS) | Bloquear USB de Almacenamiento con Microsoft Intune. |
 
 
